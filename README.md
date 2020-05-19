@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/gunrock/gunrock/"><img src="https://user-images.githubusercontent.com/2193051/82186697-d54e4800-991d-11ea-9123-e0575a07bc4f.png" width="493"></a>
+  <a href="https://github.com/gunrock/gunrock/"><img src="https://user-images.githubusercontent.com/2193051/82186697-d54e4800-991d-11ea-9123-e0575a07bc4f.png" width="200"></a>
   <br>
 </p>
 
