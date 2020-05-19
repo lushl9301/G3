@@ -26,8 +26,8 @@ G3 is built based on **Gunrock**, a CUDA library for graph-processing designed s
 ### Quick Install
 
 
-## How to cite ThunderSVM
-If you use ThunderSVM in your paper, please cite our work ([full version](https://www.comp.nus.edu.sg/~hebs/pub/vldb2020-G3-submission.pdf)).
+## How to cite **G<sup>**3**</sup>** 
+If you use **G<sup>**3**</sup>**  in your paper, please cite our work ([full version](https://www.comp.nus.edu.sg/~hebs/pub/vldb2020-G3-submission.pdf)).
 ```
 @article{husong2020g3,
  author = {Liu, Husong and Lu, Shengliang and Chen, Xinyu and He, Bingsheng},
